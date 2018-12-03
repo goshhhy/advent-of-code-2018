@@ -27,9 +27,9 @@ language since i was 11)
 each puzzle has its own folder, 1-1 for day one puzzle one, 5-2 for
 day 5 puzzle 2, and so on
 
-the folder contains my input for that day, a single c file, a
-makefile, and probably the executable (built for linux x86_64 on
-glibc 2.28)
+the folder contains my (sometimes hamd-modified) input for that day, 
+a single c file, a makefile, and probably the executable (built for
+linux x86_64 on glibc 2.28)
 
 my stats:
 =========
